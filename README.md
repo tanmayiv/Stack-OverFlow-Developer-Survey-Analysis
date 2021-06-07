@@ -1,7 +1,7 @@
 # Stack-OverFlow-Developer-Survey-Analysis
 
 
-By : Karishma Visrodia , Ritu Ranjani Ravi Shankar, Tanmayi Varanasi
+By : Tanmayi Varanasi
 
 ### OVERVIEW:
 
